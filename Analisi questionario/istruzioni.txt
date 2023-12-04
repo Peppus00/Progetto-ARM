@@ -1,0 +1,1235 @@
+Colonna: Quali di questi dispositivi utilizzi di più?   [TV]
+{
+    "Sì": 1,
+    "No": 0
+}
+
+Colonna: Quali di questi dispositivi utilizzi di più?   [Radio]
+{
+    "Sì": 1,
+    "No": 0
+}
+
+Colonna: Quali di questi dispositivi utilizzi di più?   [Computer]
+{
+    "Sì": 1,
+    "No": 0
+}
+
+Colonna: Quali di questi dispositivi utilizzi di più?   [Smartphone ]
+{
+    "Sì": 1,
+    "No": 0
+}
+
+Colonna: Quante ore al giorno guardi la TV?
+{
+    "3+ ore al giorno": 3,
+    "Da 1 a 2 ore al giorno": 1,
+    "Da 2 a 3 ore al giorno": 2,
+    "Meno di un'ora al giorno": 0
+}
+
+Colonna: Quante ore al giorno ascolti la radio?
+{
+    "3+ ore al giorno": 3,
+    "Da 1 a 2 ore al giorno": 1,
+    "Da 2 a 3 ore al giorno": 2,
+    "Meno di un'ora al giorno": 0
+}
+
+Colonna: Quanto utilizzi in media i seguenti social network? [Youtube]
+{
+    "Da 1 a 2 ore al giorno": 2,
+    "Da 2 a 3 ore al giorno": 3,
+    "Meno di un'ora al giorno": 1,
+    "Non lo utilizzo": 0,
+    "Più di 3 ore al giorno": 4
+}
+
+Colonna: Quanto utilizzi in media i seguenti social network? [Facebook]
+{
+    "Da 1 a 2 ore al giorno": 2,
+    "Da 2 a 3 ore al giorno": 3,
+    "Meno di un'ora al giorno": 1,
+    "Non lo utilizzo": 0,
+    "Più di 3 ore al giorno": 4
+}
+
+Colonna: Quanto utilizzi in media i seguenti social network? [Instagram ]
+{
+    "Da 1 a 2 ore al giorno": 2,
+    "Da 2 a 3 ore al giorno": 3,
+    "Meno di un'ora al giorno": 1,
+    "Non lo utilizzo": 0,
+    "Più di 3 ore al giorno": 4
+}
+
+Colonna: Quanto utilizzi in media i seguenti social network? [Tiktok]
+{
+    "Da 1 a 2 ore al giorno": 2,
+    "Da 2 a 3 ore al giorno": 3,
+    "Meno di un'ora al giorno": 1,
+    "Non lo utilizzo": 0,
+    "Più di 3 ore al giorno": 4
+}
+
+Colonna: Ti sono mai capitati sui social contenuti legati alla pulizia? (Video tutorial, asmr, pubblicità ecc.)
+{
+    "Sì": 1,
+    "No": 0
+}
+
+Colonna: Se sì, che tipologie di contenuto? [Spot pubblicitari]
+{
+    "Sì": 1,
+    "No": 0
+}
+
+Colonna: Se sì, che tipologie di contenuto? [Video brevi di gente che pulisce (ASMR)]
+{
+    "Sì": 1,
+    "No": 0
+}
+
+Colonna: Se sì, che tipologie di contenuto? [Tutorial pulizia (video con spiegazioni o consigli sulla pulizia)]
+{
+    "Sì": 1,
+    "No": 0
+}
+
+Colonna: Se sì, che tipologie di contenuto? [Recensioni prodotti pulizia]
+{
+    "Sì": 1,
+    "No": 0
+}
+
+Colonna: Solitamente acquisti gli stessi prodotti per la pulizia che acquistano i tuoi genitori?
+{
+    "Sì": 1,
+    "No": 0
+}
+
+Colonna: Quante volte a settimana utilizzi gli spray per le pulizie più approfondite?
+{
+    "1-2 giorni a settimana": 2,
+    "3-4 giorni a settimana": 3,
+    "5-7 giorni a settimana": 4,
+    "Mai": 0,
+    "Occasionalmente": 1
+}
+
+Colonna: Ogni quanto tempo riacquisti solitamente lo spray?
+{
+    "Ogni 2 mesi": 1,
+    "Ogni 2 o più mesi": 0,
+    "Ogni 2 settimane": 3,
+    "Ogni mese": 2
+}
+
+Colonna: In genere che formato preferisci?
+{
+    "Grande (800ml circa)": 0,
+    "Piccolo (500ml circa)": 1
+}
+
+Colonna: Quale marchio acquisti solitamente?
+{
+    "Ace": 0,
+    "Altro": 1,
+    "Chanteclair": 2,
+    "Cif": 3,
+    "Smac": 4,
+    "Viakal": 5
+}
+
+Colonna: Quale marchio acquisti solitamente? [Altro]
+{
+    "Aceto di alcohol": 0,
+    "Aiax ": 1,
+    "Amuchina": 2,
+    "Amway": 3,
+    "Chanteclair": 4,
+    "Coop": 5,
+    "Dexal": 6,
+    "Fabuloso": 7,
+    "Genio": 8,
+    "Grassatori ": 9,
+    "Il più conveniente ": 10,
+    "In base ai prezzi ": 11,
+    "Lidl": 12,
+    "Lysoform": 13,
+    "Marca del supermercato ": 14,
+    "Napisan": 15,
+    "Napisan ": 16,
+    "Napisan o lisoform presidio sanitario ": 17,
+    "Non presto attenzione al marchio, vario in base al prezzo generalmente": 18,
+    "Prodotti marchio Coop": 19,
+    "Qasar vetri": 20,
+    "Quasar": 21,
+    "Quasar ": 22,
+    "Quelli biodegradabili e che utilizzano meno plastica e ": 23,
+    "Quello che costa meno": 24,
+    "Sottomarche": 25,
+    "Spray Amuchina": 26,
+    "Stanhome": 27,
+    "Uso soltanto aceto di alcohol": 28,
+    "Vim": 29,
+    "W5": 30,
+    "W5 Lidl": 31,
+    "W5 Lild": 32,
+    "Winni’s": 33,
+    "discount ": 34,
+    "il più conveniente ": 35,
+    "non me lo ricordo il nome mi dispiace ": 36,
+    "quello in offerta, miglior rapporto qualità prezzo": 37
+}
+
+Colonna: Cambi o sei fedele al marchio?
+{
+    "No, sono fedele": 0,
+    "Sì, cambio": 1
+}
+
+Colonna: In base a cosa?
+{
+    "Curiosità": 0,
+    "Prezzo": 1
+}
+
+Colonna: Se prezzo, quale prodotto preferisci comprare quando lo trovi in offerta?
+{
+    "Ace": 0,
+    "Chanteclair": 1,
+    "Cif": 2,
+    "Smac": 3,
+    "Viakal": 4
+}
+
+Colonna: Se curiosità, cosa ti attira solitamente? 
+{
+    "La confezione di un prodotto": 0,
+    "Un nuovo prodotto di un marchio che conoscevo": 1,
+    "Un prodotto che ho visto in una pubblicità": 2,
+    "Un prodotto di un marchio mai visto": 3
+}
+
+Colonna: Ti capita mai di acquistare "pacchetti convenienza"? (pacchetti: prodotto+ricarica oppure con più prodotti insieme) 
+{
+    "Non li acquisto mai": 0,
+    "Non li ho mai trovati": 1,
+    "Sì, ma solo se c'è una grande convenienza": 2,
+    "Sì, ogni volta che li trovo": 3
+}
+
+Colonna: Hai notato qualche prodotto spray in offerta nell'ultimo mese?
+{
+    "Sì": 1,
+    "No": 0
+}
+
+Colonna: Se sì, lo hai acquistato?
+{
+    "No": 0,
+    "Sì nonostante non fosse il prodotto solito": 1,
+    "Sì, era il prodotto che compro di solito": 2
+}
+
+Colonna: Quando sei al supermercato odori il prodotto prima di acquistarlo per verificare il profumo?
+{
+    "Sì": 1,
+    "No": 0
+}
+
+Colonna: Ordina le seguenti caratteristiche per rilevanza:  [Profumazione ]
+{
+    "1° posto: più rilevante": 0,
+    "2° posto": 1,
+    "3° posto: meno rilevante": 2
+}
+
+Colonna: Ordina le seguenti caratteristiche per rilevanza:  [Efficacia ]
+{
+    "1° posto: più rilevante": 0,
+    "2° posto": 1,
+    "3° posto: meno rilevante": 2
+}
+
+Colonna: Ordina le seguenti caratteristiche per rilevanza:  [Prezzo]
+{
+    "1° posto: più rilevante": 0,
+    "2° posto": 1,
+    "3° posto: meno rilevante": 2
+}
+
+Colonna: Utilizzi i guanti durante le pulizie? 
+{
+    "No": 0,
+    "Sì, ma solo quando faccio le pulizie più approfondite": 1,
+    "Sì, sempre": 2
+}
+
+Colonna: Utilizzi la candeggina quando fai le pulizie?
+{
+    "Sì": 1,
+    "No": 0
+}
+
+Colonna: Se sì, in che formato? 
+{
+    "Boccione": 0,
+    "Spray": 1
+}
+
+Colonna: Per cosa la utilizzi? [Bagno]
+{
+    "Sì": 1,
+    "No": 0
+}
+
+Colonna: Per cosa la utilizzi? [Bucato ]
+{
+    "Sì": 1,
+    "No": 0
+}
+
+Colonna: Per cosa la utilizzi? [Igienizzare superfici ]
+{
+    "Sì": 1,
+    "No": 0
+}
+
+Colonna: Per cosa la utilizzi? [Altro]
+{
+    "Cucina ": 0,
+    "Pavimenti": 1,
+    "Pavimenti ": 2,
+    "Pavimenti giardino ": 3,
+    "Pavimento": 4,
+    "Pavimento ": 5,
+    "Per sbiancare il lavandino della cucina": 6,
+    "Per smacchiare": 7,
+    "Pulizia lavabo cucina": 8,
+    "Pulizia pavimenti ": 9,
+    "Sbiancare il water": 10,
+    "Scarichi": 11,
+    "Tutta la casa ": 12,
+    "tutto": 13
+}
+
+Colonna: Se no, perchè non la utilizzi [paura di rovinare superficie/tessuto]
+{
+    "Sì": 1,
+    "No": 0
+}
+
+Colonna: Se no, perchè non la utilizzi [non so come usarla bene ]
+{
+    "Sì": 1,
+    "No": 0
+}
+
+Colonna: Se no, perchè non la utilizzi [non la ritengo necessaria ]
+{
+    "Sì": 1,
+    "No": 0
+}
+
+Colonna: Se no, perchè non la utilizzi [non mi piace l'odore ]
+{
+    "Sì": 1,
+    "No": 0
+}
+
+Colonna: Se no, perchè non la utilizzi [Altro]
+{
+    "Allergia": 0,
+    "Allergia ": 0,
+    "Inquinamento ": 1,
+    "Macchia i tessuti": 2,
+    "Mi viene voglia di berla": 3,
+    "Solo se è  necessario ": 4
+}
+
+Colonna: Qual è l'aggettivo che assoceresti alla pulizia? 
+{
+    " Igienizzante": 0,
+    " Ordine ": 1,
+    "A morte i batteri": 2,
+    "Appagamento ": 3,
+    "Aria pulita": 4,
+    "Ben seria": 5,
+    "Benesere ": 6,
+    "Benessere": 7,
+    "Benessere ": 8,
+    "Bianco": 9,
+    "Bio": 10,
+    "Brillante": 11,
+    "Brillante ": 12,
+    "Brillantezza ": 13,
+    "Calma": 14,
+    "Candeggina ": 15,
+    "Confortevole": 16,
+    "Cura dell'ambiente, ": 17,
+    "Disinfettato": 18,
+    "Disinfettato ": 19,
+    "Ecologico": 20,
+    "Efficace": 21,
+    "Efficace ": 22,
+    "Equilibrio ": 23,
+    "Equilobrio": 24,
+    "Essenziale": 25,
+    "Essenziale ": 26,
+    "Essere puliti ": 27,
+    "Fatica": 28,
+    "Faticosa": 29,
+    "Faticose": 30,
+    "Faticoso": 31,
+    "Fondamentale ": 32,
+    "Freschezza": 33,
+    "Freschezza ": 34,
+    "Fresco": 35,
+    "Fresco ": 36,
+    "Fresco e piacevole": 37,
+    "Gradevole": 38,
+    "Igene": 39,
+    "Igenizzato": 40,
+    "Igenizzato ": 41,
+    "Igiene": 42,
+    "Igiene ": 43,
+    "Igiene e profumato ": 44,
+    "Igienica": 45,
+    "Igienica ": 46,
+    "Igienico": 47,
+    "Igienizzante ": 48,
+    "Igienizzare": 49,
+    "Igienizzato": 50,
+    "Igienizzato ": 51,
+    "Importante": 52,
+    "Importante ": 53,
+    "Incombenza": 54,
+    "Indispensabile": 55,
+    "Indispensabile ": 56,
+    "Lavato": 57,
+    "Leggerezza": 58,
+    "Limpido": 59,
+    "Limpido ": 60,
+    "Lindo": 61,
+    "Lucentezza": 62,
+    "Lustro": 63,
+    "Meticoloso ": 64,
+    "Michael rucco": 65,
+    "Necessaria": 66,
+    "Necessaria ": 67,
+    "Necessario": 68,
+    "Noia": 69,
+    "Noia ": 70,
+    "Noiosa": 71,
+    "Noiosa ma necessaria": 72,
+    "Noiose": 73,
+    "Noioso": 74,
+    "Odore": 75,
+    "Ordinato": 76,
+    "Ordinato ": 77,
+    "Ordine": 78,
+    "Ordine ": 79,
+    "Palloso": 80,
+    "Panno": 81,
+    "Perfezione": 82,
+    "Perfezione ": 83,
+    "Profonda": 84,
+    "Profumata": 85,
+    "Profumato": 86,
+    "Profumato ": 87,
+    "Profumato, limpido": 88,
+    "Profumo": 89,
+    "Profumo ": 90,
+    "Profumo di pulito": 91,
+    "Pulita": 92,
+    "Pulito": 93,
+    "Pulizia ": 94,
+    "Quotidiana": 95,
+    "Relax ": 96,
+    "Rilassante": 97,
+    "Rilassante ": 98,
+    "Salutare": 99,
+    "Senso di pace": 100,
+    "Sicurezza": 101,
+    "Sicurezza ": 102,
+    "Sicuro ": 103,
+    "Soddisfacente": 104,
+    "Soddisfacente ": 105,
+    "Splendente": 106,
+    "Splendente ": 107,
+    "Stancante ": 108,
+    "Terapeutica": 109,
+    "Tranquilla": 110,
+    "Veloce ": 111,
+    "bella": 112,
+    "discount ": 113,
+    "freschezza": 114,
+    "igienico": 115,
+    "igienizzante": 116,
+    "igienizzato": 117,
+    "maiochecazzonesoscus": 118,
+    "profumata": 119,
+    "scintilante": 120,
+    "tranquillità ": 121
+}
+
+Colonna: Quando pulisci cosa metti in sottofondo? 
+{
+    "Musica": 1,
+    "Niente": 0,
+    "Podcast": 2,
+    "Radio": 3,
+    "TV": 4
+}
+
+Colonna: Per quanto riguarda gli spray, ti ricordi di aver visto le ricariche?
+{
+    "Sì": 1,
+    "No": 0
+}
+
+Colonna: Se sì, le hai acquistate? 
+{
+    "Sì": 1,
+    "No": 0
+}
+
+Colonna: Quali?
+{
+    "Altro": 0,
+    "Entrambe": 3,
+    "Ricariche da diluire": 2,
+    "Ricariche già pronte (bottiglia senza il beccuccio)": 1
+}
+
+Colonna: Perché? [Non è così tanto conveniente ]
+{
+    "Sì": 1,
+    "No": 0
+}
+
+Colonna: Perché? [Sono scomode ]
+{
+    "Sì": 1,
+    "No": 0
+}
+
+Colonna: Perché? [Penso non siano ugualmente efficaci ]
+{
+    "Sì": 1,
+    "No": 0
+}
+
+Colonna: Perché? [Altro]
+{
+    "Ancora non ho finito lo spray": 0,
+    "In quel momento non mi servivano": 1,
+    "Le ho viste quando non mi serviva comprarlo": 2,
+    "Non ho mai preso in considerazione la cosa": 3,
+    "Non le ho mai prese in considerazione ": 4,
+    "Non mi interessano": 5,
+    "Non mi è capitato": 6,
+    "Non mi è capitato ": 7,
+    "Perché cambio spesso prodotti, mi piace usarne diversi ": 8,
+    "Trovo prodotti piu economici": 9,
+    "Vorrei qualcosa di meno plasticoso, limitiamo la plastica": 10
+}
+
+Colonna: L'ultimo acquisto che hai fatto era: 
+{
+    "una ricarica": 0,
+    "uno spray": 1
+}
+
+Colonna: Quale tipologie di ricarica compreresti?
+{
+    "Da diluire in acqua": 0,
+    "Entrambe": 1,
+    "Già pronte": 2,
+    "Non le comprerei": 3
+}
+
+Colonna: Saresti disposto a comprare un prodotto green?
+{
+    "No": 0,
+    "Sì, ma solo se non c'è una grande differenza di prezzo": 1,
+    "Sì, pagando anche di più": 2,
+    "Sì, se in offerta": 3
+}
+
+Colonna: Ritieni che i prodotti spray siano troppo aggressivi sulla pelle? 
+{
+    "Sì": 1,
+    "No": 0
+}
+
+Colonna: Se sì, hai mai avuto esperienze negative (irritazione/fastidio dato dall'inalazione)
+{
+    "Sì": 1,
+    "No": 0
+}
+
+Colonna: Con quale prodotto?  [Ace]
+{
+    "Sì": 1,
+    "No": 0
+}
+
+Colonna: Con quale prodotto?  [Cif]
+{
+    "Sì": 1,
+    "No": 0
+}
+
+Colonna: Con quale prodotto?  [Chanteclair]
+{
+    "Sì": 1,
+    "No": 0
+}
+
+Colonna: Con quale prodotto?  [Smac]
+{
+    "Sì": 1,
+    "No": 0
+}
+
+Colonna: Con quale prodotto?  [Viakal]
+{
+    "Sì": 1,
+    "No": 0
+}
+
+Colonna: Con quale prodotto?  [Altro]
+{
+    "Ammoniaca": 0,
+    "Candeggina": 1,
+    "Candeggina ": 2,
+    "Cantegina, decalcificanti, trielina ecc. ecc.. ": 3,
+    "Combinazione di più prodotti": 4,
+    "Deodorante spray": 5,
+    "Detersivo per piatti": 6,
+    "Grassatore ": 7,
+    "Mi capita con tutti gli sgrassatori": 8,
+    "Non ricordo": 9,
+    "Non ricordo ": 10,
+    "Quasar con candeggina ": 11,
+    "Queste marche sono tutte aggressive per la pelle": 12,
+    "Rio azzurro ": 13,
+    "Sole": 14,
+    "Strong": 15,
+    "Vari": 16,
+    "sbiancante": 17
+}
+
+Colonna: Conosci il marchio ACE? 
+{
+    "Sì": 1,
+    "No": 0
+}
+
+Colonna: E Ace Spray?
+{
+    "Sì": 1,
+    "No": 0
+}
+
+Colonna: Hai mai acquistato un prodotto Ace Spray?
+{
+    "Sì": 1,
+    "No": 0
+}
+
+Colonna: Lo hai trovato in offerta? 
+{
+    "Sì": 1,
+    "No": 0
+}
+
+Colonna: Per quale motivo non l'hai comprato?
+{
+    "Altro": 0,
+    "Costa troppo": 1,
+    "Ho già il mio di fiducia, non cambio mai": 2,
+    "Non l'ho mai trovato in offerta": 3,
+    "Non l'ho visto sugli scaffali": 4,
+    "Non mi piace": 5
+}
+
+Colonna: Per quale motivo non l'hai comprato? [Altro]
+{
+    "Caso": 0,
+    "Compro Ace Boccioni": 1,
+    "Nessun motivo": 2,
+    "Non ci ho mai fatto troppo caso": 3,
+    "Non mi convince": 4,
+    "Non mi sono posta il problema": 5,
+    "Non mi è mai capitato ": 6,
+    "Non è capitato": 7,
+    "Uso i prodotti che conosco meglio": 8
+}
+
+Colonna: Quale spray ti sembra più efficace?
+{
+    "Liquido": 0,
+    "Schiuma": 1,
+    "Una via di mezzo": 2
+}
+
+Colonna: Preferisci un prodotto profumato o neutro ("profumo di pulito")?
+{
+    "Neutro": 0,
+    "Profumato": 1
+}
+
+Colonna: Preferisci un odore temporaneo o persistente?
+{
+    "Persistente": 0,
+    "Temporaneo": 1
+}
+
+Colonna: Quali difficoltà hai riscontrato nell'utilizzo dello spray? (Se non hai riscontrato alcuna difficoltà puoi non rispondere)  [Non si riesce a usare il liquido che rimane sul fondo]
+{
+    "Sì": 1,
+    "No": 0
+}
+
+Colonna: Quali difficoltà hai riscontrato nell'utilizzo dello spray? (Se non hai riscontrato alcuna difficoltà puoi non rispondere)  [Non riesco a vedere il livello a cui è arrivato il liquido]
+{
+    "Sì": 1,
+    "No": 0
+}
+
+Colonna: Quali difficoltà hai riscontrato nell'utilizzo dello spray? (Se non hai riscontrato alcuna difficoltà puoi non rispondere)  [La bottiglia è scivolosa ]
+{
+    "Sì": 1,
+    "No": 0
+}
+
+Colonna: Quali difficoltà hai riscontrato nell'utilizzo dello spray? (Se non hai riscontrato alcuna difficoltà puoi non rispondere)  [Non si può regolare il getto]
+{
+    "Sì": 1,
+    "No": 0
+}
+
+Colonna: Quali difficoltà hai riscontrato nell'utilizzo dello spray? (Se non hai riscontrato alcuna difficoltà puoi non rispondere)  [Il beccuccio si rompe prima ]
+{
+    "Sì": 1,
+    "No": 0
+}
+
+Colonna: Quali difficoltà hai riscontrato nell'utilizzo dello spray? (Se non hai riscontrato alcuna difficoltà puoi non rispondere)  [Lascia aloni]
+{
+    "Sì": 1,
+    "No": 0
+}
+
+Colonna: Quali difficoltà hai riscontrato nell'utilizzo dello spray? (Se non hai riscontrato alcuna difficoltà puoi non rispondere)  [E' necessario il risciacquo]
+{
+    "Sì": 1,
+    "No": 0
+}
+
+Colonna: Qual è il marchio spray che acquisti maggiormente?
+{
+    "Altro": 0,
+    "Chanteclair": 1,
+    "Cif": 2,
+    "Smac": 3,
+    "Viakal": 4
+}
+
+Colonna: Qual è il marchio spray che acquisti maggiormente? [Altro]
+{
+    "Amuchina": 0,
+    "Bref": 1,
+    "Candeggina ": 2,
+    "Conad": 3,
+    "Coop": 4,
+    "Dexal": 5,
+    "Dipende, non ho una marca fissa": 6,
+    "Il cane di lení": 7,
+    "Lyso Form": 8,
+    "Marca del supermercato ": 9,
+    "Napysan": 10,
+    "Nessuno": 11,
+    "Non ce n’è uno preferito nel mio caso": 12,
+    "Non ne acquisto uno maggiormente di un altro": 13,
+    "Prodotti me": 14,
+    "Quasar": 15,
+    "Winni’s": 16,
+    "discount ": 17
+}
+
+Colonna: Quali prodotti hai utilizzato?  [Sgrassatore Universale]
+{
+    "Sì": 1,
+    "No": 0
+}
+
+Colonna: Quali prodotti hai utilizzato?  [Sgrassatore Cucina]
+{
+    "Sì": 1,
+    "No": 0
+}
+
+Colonna: Quali prodotti hai utilizzato?  [Sgrassatore Igienizzante ]
+{
+    "Sì": 1,
+    "No": 0
+}
+
+Colonna: Quali prodotti hai utilizzato?  [Sgrassatore Igienizzante con candeggina]
+{
+    "Sì": 1,
+    "No": 0
+}
+
+Colonna: Quali prodotti hai utilizzato?  [Ace Bagno brillante ]
+{
+    "Sì": 1,
+    "No": 0
+}
+
+Colonna: Quali prodotti hai utilizzato?  [Ace Bagno con candeggina ]
+{
+    "Sì": 1,
+    "No": 0
+}
+
+Colonna: Quali prodotti hai utilizzato?  [Ace candeggina + mousse ]
+{
+    "Sì": 1,
+    "No": 0
+}
+
+Colonna: Quali prodotti hai utilizzato?  [Ace candeggina + oxygen]
+{
+    "Sì": 1,
+    "No": 0
+}
+
+Colonna: Il getto di questi spray è:    
+{
+    "troppo denso": 0,
+    "troppo liquido": 1,
+    "va bene così com'è": 2
+}
+
+Colonna: Come valuti il rapporto qualità-prezzo dei prodotti Ace Spray rispetto ai prodotti simili sul mercato? 
+{
+    "Buono": 0,
+    "Eccellente": 1,
+    "Molto scarso": 2,
+    "Non so": 3,
+    "Sufficiente": 4
+}
+
+Colonna: Percepisci i prodotti Ace Spray come più costosi, meno costosi o alla pari rispetto ai prodotti concorrenti?
+{
+    "Alla pari": 0,
+    "Meno costosi": 1,
+    "Non lo so": 2,
+    "Più costosi": 3
+}
+
+Colonna: Quali aspetti dei prodotti Ace Spray giustificano secondo te il prezzo?  [Qualità del prodotto ]
+{
+    "Sì": 1,
+    "No": 0
+}
+
+Colonna: Quali aspetti dei prodotti Ace Spray giustificano secondo te il prezzo?  [Marchio di fiducia ]
+{
+    "Sì": 1,
+    "No": 0
+}
+
+Colonna: Quali aspetti dei prodotti Ace Spray giustificano secondo te il prezzo?  [Innovazioni]
+{
+    "Sì": 1,
+    "No": 0
+}
+
+Colonna: Quali aspetti dei prodotti Ace Spray giustificano secondo te il prezzo?  [Non è giustificato ]
+{
+    "Sì": 1,
+    "No": 0
+}
+
+Colonna: Quali aspetti dei prodotti Ace Spray giustificano secondo te il prezzo?  [Altro]
+{
+    "Comodità ": 0
+}
+
+Colonna: Sei solito/a approfittare di offerte o promozioni sui prodotti Ace Spray?
+{
+    "Mai": 0,
+    "Raramente": 1,
+    "Sempre": 2,
+    "Spesso": 3
+}
+
+Colonna: Quali tipi di promozioni o sconti influenzerebbero positivamente la decisione di acquisto? [Sconti]
+{
+    "Sì": 1,
+    "No": 0
+}
+
+Colonna: Quali tipi di promozioni o sconti influenzerebbero positivamente la decisione di acquisto? ["Pacchetti convenienza" con più prodotti a prezzo ridotto]
+{
+    "Sì": 1,
+    "No": 0
+}
+
+Colonna: Quali tipi di promozioni o sconti influenzerebbero positivamente la decisione di acquisto? [Campagne "compri due paghi uno"]
+{
+    "Sì": 1,
+    "No": 0
+}
+
+Colonna: Quali tipi di promozioni o sconti influenzerebbero positivamente la decisione di acquisto? [Altro]
+{
+    "Curiosot": 0,
+    "Rispetto ambiente": 1,
+    "Variazioni del prezzo originario": 2
+}
+
+Colonna: Saresti disposto/a a spendere di più per prodotti Ace Spray se ci fossero miglioramenti o nuove caratteristiche 
+{
+    "Sì": 1,
+    "No": 0
+}
+
+Colonna: Saresti disposto/a a spendere di più per prodotti Ace Spray se ci fossero miglioramenti o nuove caratteristiche  [Altro]
+{
+    "Certezza di efficacia ": 0,
+    "Da quanto in più dovrei spendere": 1,
+    "Dall'efficacia": 2,
+    "Dalla caratteristica che viene aggiunta al prodotto ": 3,
+    "Dalla qualità e dagli studi che sono fatti ": 4,
+    "Miglior performance ": 5,
+    "Miglioramento dell’impronta ecologica ": 6,
+    "Se fosse meno inquinante spenderei di più ": 7,
+    "Se il prezzo è eccessivamente aumentato cambierei marca": 8,
+    "Sicurezza sulla efficacia ": 9
+}
+
+Colonna: Lo riacquisteresti? 
+{
+    "Sì": 1,
+    "No": 0
+}
+
+Colonna: Lo riacquisteresti?  [Altro]
+{
+    "Forse": 0,
+    "Fprse": 1,
+    "Se effettivamente efficace ": 2
+}
+
+Colonna: Lo consiglieresti a un amico/a
+{
+    "Sì": 1,
+    "No": 0
+}
+
+Colonna: Quali prodotti ti ricordi di aver visto? [Ace]
+{
+    "Sì": 1,
+    "No": 0
+}
+
+Colonna: Quali prodotti ti ricordi di aver visto? [Amuchina]
+{
+    "Sì": 1,
+    "No": 0
+}
+
+Colonna: Quali prodotti ti ricordi di aver visto? [Chanteclair]
+{
+    "Sì": 1,
+    "No": 0
+}
+
+Colonna: Quali prodotti ti ricordi di aver visto? [Esselunga ]
+{
+    "Sì": 1,
+    "No": 0
+}
+
+Colonna: Quali prodotti ti ricordi di aver visto? [Cif]
+{
+    "Sì": 1,
+    "No": 0
+}
+
+Colonna: Quali prodotti ti ricordi di aver visto? [Smac]
+{
+    "Sì": 1,
+    "No": 0
+}
+
+Colonna: Quali prodotti ti ricordi di aver visto? [Winni's]
+{
+    "Sì": 1,
+    "No": 0
+}
+
+Colonna: Quali prodotti ti ricordi di aver visto? [Viakal]
+{
+    "Sì": 1,
+    "No": 0
+}
+
+Colonna: Quali prodotti ti ricordi di aver visto? [Citrosil]
+{
+    "Sì": 1,
+    "No": 0
+}
+
+Colonna: Quali prodotti ti ricordi di aver visto? [Quasar]
+{
+    "Sì": 1,
+    "No": 0
+}
+
+Colonna: Quale linea di Citrosil hai individuato?
+{
+    "Bagno": 0,
+    "Cucina": 1,
+    "Universale": 2
+}
+
+Colonna: Quale linea di Viakal hai individuato?
+{
+    "Bagno": 0,
+    "Cucina": 1,
+    "Universale": 2
+}
+
+Colonna: Quale linea di Winni's hai individuato?
+{
+    "Bagno": 0,
+    "Cucina": 1,
+    "Universale": 2
+}
+
+Colonna: Quale linea di Chanteclair hai individuato?
+{
+    "Bagno": 0,
+    "Cucina": 1,
+    "Universale": 2
+}
+
+Colonna: Quale linea di Esselunga hai individuato?
+{
+    "Bagno": 0,
+    "Cucina": 1,
+    "Universale": 2
+}
+
+Colonna: Quale linea di Amuchina hai individuato?
+{
+    "Bagno": 0,
+    "Cucina": 1,
+    "Universale": 2
+}
+
+Colonna: Quale linea di Smac hai individuato?
+{
+    "Bagno": 0,
+    "Cucina": 1,
+    "Universale": 2
+}
+
+Colonna: Quale linea di Cif hai individuato?
+{
+    "Bagno": 0,
+    "Cucina": 1,
+    "Universale": 2
+}
+
+Colonna: Quale linea di Ace hai individuato?
+{
+    "Bagno": 0,
+    "Cucina": 1,
+    "Universale": 2
+}
+
+Colonna: Quale linea di Quasar hai individuato?
+{
+    "Bagno": 0,
+    "Cucina": 1,
+    "Universale": 2
+}
+
+Colonna: Quali prodotti ti ricordi di aver visto? [Ace].1
+{
+    "Sì": 1,
+    "No": 0
+}
+
+Colonna: Quali prodotti ti ricordi di aver visto? [Amuchina].1
+{
+    "Sì": 1,
+    "No": 0
+}
+
+Colonna: Quali prodotti ti ricordi di aver visto? [Chanteclair].1
+{
+    "Sì": 1,
+    "No": 0
+}
+
+Colonna: Quali prodotti ti ricordi di aver visto? [Esselunga ].1
+{
+    "Sì": 1,
+    "No": 0
+}
+
+Colonna: Quali prodotti ti ricordi di aver visto? [Cif].1
+{
+    "Sì": 1,
+    "No": 0
+}
+
+Colonna: Quali prodotti ti ricordi di aver visto? [Smac].1
+{
+    "Sì": 1,
+    "No": 0
+}
+
+Colonna: Quali prodotti ti ricordi di aver visto? [Winni's].1
+{
+    "Sì": 1,
+    "No": 0
+}
+
+Colonna: Quali prodotti ti ricordi di aver visto? [Viakal].1
+{
+    "Sì": 1,
+    "No": 0
+}
+
+Colonna: Quali prodotti ti ricordi di aver visto? [Citrosil].1
+{
+    "Sì": 1,
+    "No": 0
+}
+
+Colonna: Quali prodotti ti ricordi di aver visto? [Quasar].1
+{
+    "Sì": 1,
+    "No": 0
+}
+
+Colonna: Quale linea di Ace hai individuato?.1
+{
+    "Bagno": 0,
+    "Cucina": 1,
+    "Universale": 2
+}
+
+Colonna: Quale linea di Smac hai individuato?.1
+{
+    "Bagno": 0,
+    "Cucina": 1,
+    "Universale": 2
+}
+
+Colonna: Quale linea di Amuchina hai individuato?.1
+{
+    "Bagno": 0,
+    "Cucina": 1,
+    "Universale": 2
+}
+
+Colonna: Quale linea di Esselunga hai individuato?.1
+{
+    "Bagno": 0,
+    "Cucina": 1,
+    "Universale": 2
+}
+
+Colonna: Quale linea di Winni's hai individuato?.1
+{
+    "Bagno": 0,
+    "Cucina": 1,
+    "Universale": 2
+}
+
+Colonna: Quale linea di Chanteclair hai individuato?.1
+{
+    "Bagno": 0,
+    "Cucina": 1,
+    "Universale": 2
+}
+
+Colonna: Quale linea di Viakal hai individuato?.1
+{
+    "Bagno": 0,
+    "Cucina": 1,
+    "Universale": 2
+}
+
+Colonna: Quale linea di Citrosil hai individuato?.1
+{
+    "Bagno": 0,
+    "Cucina": 1,
+    "Universale": 2
+}
+
+Colonna: Quale linea di Cif hai individuato?.1
+{
+    "Bagno": 0,
+    "Cucina": 1,
+    "Universale": 2
+}
+
+Colonna: Quale linea di Quasar hai individuato?.1
+{
+    "Bagno": 0,
+    "Cucina": 1,
+    "Universale": 2
+}
+
+Colonna: Età: 
+{
+    "18-26": 0,
+    "27-42": 1,
+    "43-58": 2,
+    "59-76": 3
+}
+
+Colonna: Genere:
+{
+    "Donna": 0,
+    "Preferisco non specificare": 1,
+    "Uomo": 2
+}
+
+Colonna: Regione di residenza: 
+{
+    "Abruzzo": 0,
+    "Basilicata": 1,
+    "Calabria": 2,
+    "Campania": 3,
+    "Emilia Romagna": 4,
+    "Friuli-Venezia Giulia": 5,
+    "Lazio": 6,
+    "Liguria": 7,
+    "Lombardia": 8,
+    "Marche": 9,
+    "Molise": 10,
+    "Piemonte": 11,
+    "Puglia": 12,
+    "Sardegna": 13,
+    "Sicilia": 14,
+    "Toscana": 15,
+    "Veneto": 16
+}
+
